@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# image files
+face_parts
+
+images
+images first run
+metadata
+
+# Mac
+.DS_Store
